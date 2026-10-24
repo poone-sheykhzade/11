@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS - سیستم عامل شخصی",
+  "description": "سیستم عامل شخصی برای مدیریت تسک‌ها، عادات روزانه، تمرکز عمیق و بهره‌وری با دیزاین دارک نئونی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
